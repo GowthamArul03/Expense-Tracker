@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import styled from "styled-components";
-import OverviewComponent from "./OverviewComponent";
+import OverviewComponent from "./temp";
 import TransactionsComponent from "./TransactionsComponent";
 
 const Container = styled.div`
