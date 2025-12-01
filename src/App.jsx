@@ -4,7 +4,7 @@ const Container = styled.div`
 display:flex;
 flex-direction: column;
 font-family: Montserrat;
-margin: 30px 0 10px;
+margin: 80px 0 10px;
 align-items: center;
 
 `;
