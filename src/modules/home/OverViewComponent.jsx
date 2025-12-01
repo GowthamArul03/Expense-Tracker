@@ -141,7 +141,7 @@ const AddTransactionView = (props) => {
     </AddTransactionContainer>
   );
 };
-const OverViewComponent = (props) => {
+const OverviewComponent = (props) => {
   const [isAddTxnVisible, toggleAddTXn] = useState(false);
   return (
     <Container>
@@ -171,4 +171,4 @@ const OverViewComponent = (props) => {
     </Container>
   );
 };
-export default OverViewComponent;
+export default OverviewComponent;
